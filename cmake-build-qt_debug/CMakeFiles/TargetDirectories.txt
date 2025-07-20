@@ -1,0 +1,5 @@
+D:/AutoClick/cmake-build-qt_debug/CMakeFiles/AutoClick.dir
+D:/AutoClick/cmake-build-qt_debug/CMakeFiles/edit_cache.dir
+D:/AutoClick/cmake-build-qt_debug/CMakeFiles/rebuild_cache.dir
+D:/AutoClick/cmake-build-qt_debug/CMakeFiles/AutoClick_autogen_timestamp_deps.dir
+D:/AutoClick/cmake-build-qt_debug/CMakeFiles/AutoClick_autogen.dir

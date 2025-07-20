@@ -1,0 +1,8 @@
+# ninja log v6
+5	733	7746461191930204	AutoClick_autogen/timestamp	a3b6e403ab2fc6fb
+5	733	7746461191930204	AutoClick_autogen/mocs_compilation.cpp	a3b6e403ab2fc6fb
+5	733	7746461191930204	D:/AutoClick/cmake-build-qt_debug/AutoClick_autogen/timestamp	a3b6e403ab2fc6fb
+5	733	7746461191930204	D:/AutoClick/cmake-build-qt_debug/AutoClick_autogen/mocs_compilation.cpp	a3b6e403ab2fc6fb
+735	1065	7746461193649892	CMakeFiles/AutoClick.dir/AutoClick_autogen/mocs_compilation.cpp.obj	fd33ce80076de5bc
+813	3819	7746461194432231	CMakeFiles/AutoClick.dir/main.cpp.obj	d3bebda417b9ea85
+3822	4993	7746461224507476	AutoClick.exe	5a41b6a02999e19a
